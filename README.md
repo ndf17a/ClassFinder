@@ -21,6 +21,6 @@ Brown Library -> A.B. Barret
 
 When on the path page, you can return to either start or end pages to reselect a building.
 
-![](ClassFinder/pictures/Home.PNG)![](ClassFinder/pictures/Full.PNG)  
+![](ClassFinder/pictures/Home.PNG)![](ClassFinder/pictures/fullmap.PNG)  
 ![](ClassFinder/pictures/first.PNG)![](ClassFinder/pictures/second.PNG) 
 ![](ClassFinder/pictures/map.PNG) 
