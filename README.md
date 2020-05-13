@@ -10,8 +10,8 @@ How ClassFinder works:
 "See Full Acu Map" -> A picture of the whole campus is shown  
 "Go to Building List" -> Goes to a list of all the buildings on campus  
 
-Select a building to start at.  
-Select a building to end at.
+Select a building to start.  
+Select a building to end.  
 *(note that most combinations of start to end are not implemented and will give errors)*  
 
 **These combinations works**  
